@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+}
+.errorhidden{
+    display: none;
+}
+.errorshow{
+    display: block;
+}
+.createcontainer{
+    font-size: 16px;
+}

@@ -1,0 +1,13 @@
+.container{
+    background-color: #fff;
+    width: 100%;
+    font-size: 16px;
+    padding: 40px;
+}
+.nameinput{
+    border: 0px;
+    background-color: #fff;
+}
+.inputbox{
+    margin: 5px 0px;
+}
