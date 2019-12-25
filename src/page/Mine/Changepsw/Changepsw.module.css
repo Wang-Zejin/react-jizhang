@@ -1,0 +1,49 @@
+.cgpswcontainer{
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 15px;
+    box-shadow: 0px 5px 13px 0px grey;
+    font-size: 16px;
+    margin-top: 50px;
+    opacity: 0.85;
+}
+.title{
+    width: 50%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-bottom: 3px solid #1b8efb;
+    margin: 0px auto 35px;
+    font-size: 20px;
+}
+.cgpswform{
+    margin-left: 50%;
+    transform: translateX(-50%);
+
+}
+.submit{
+    text-align: center;
+}
+.tdwidth{
+    width: 103px;
+}
+
+
+.container{
+    width: 100%;
+    background-color: #fff;
+    font-size: 16px;
+    margin: 0px auto 10px;
+    padding: 0px 10px 0px
+}
+.containeritem{
+    border-bottom: 1px solid #e8e8e8;
+    padding: 15px 20px 15px 0px;
+    overflow: hidden;
+}
+.pswinput{
+    border: 0px;
+    background-color: #fff;
+}

@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+.errorhidden{
+    display: none;
+}
+.errorshow{
+    display: block;
+}
+.createcontainer{
+    font-size: 16px;
+}
+.thetable{
+    width: 90%;
+    margin: 15px 20px 0px;
+}

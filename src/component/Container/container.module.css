@@ -1,0 +1,10 @@
+.container{
+    /* background-color: greenyellow; */
+    width: 100%;
+    margin-bottom: 46px;
+}
+.container::after{
+    content: "";
+    display: block;
+    clear: both;
+}

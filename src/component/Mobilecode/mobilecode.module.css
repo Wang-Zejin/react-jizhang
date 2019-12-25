@@ -1,0 +1,18 @@
+.logininputbox{
+    margin: 10px auto;
+    width: 70%;
+    border: 1px #e2e2e2 solid;
+    border-radius: 15px;
+}
+.logininput{
+    background:inherit;
+    width: 80%;
+    height: 32px;
+    border: 0px;
+}
+.submitbutton{
+    width:70%;
+    border-radius:15px;
+    margin:10px 0px;
+    opacity: 1;
+}
